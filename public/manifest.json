@@ -3,6 +3,11 @@
   "name": "Lightweight Epub Reader by htbkoo",
   "icons": [
     {
+      "src": "epub_logo_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
       "src": "epub_logo_480x480.png",
       "sizes": "480x480",
       "type": "image/png"
