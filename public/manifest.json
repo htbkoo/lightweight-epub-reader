@@ -6,6 +6,16 @@
       "src": "EPUB_logo.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+    },
+    {
+      "src": "EPUB_logo.svg",
+      "sizes": "160x220",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "EPUB_logo_683x939.svg",
+      "sizes": "683x939",
+      "type": "image/svg+xml"
     }
   ],
   "start_url": "/lightweight-epub-reader/?source=pwa",
