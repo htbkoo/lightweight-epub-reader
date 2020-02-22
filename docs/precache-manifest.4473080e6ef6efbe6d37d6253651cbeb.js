@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cacd4007e042ef320e7bc4c1a034044d",
+    "revision": "81252c6fc4ce9cd6f4fa31f51ad319a7",
     "url": "/lightweight-epub-reader/index.html"
   },
   {
